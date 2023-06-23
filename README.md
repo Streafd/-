@@ -1,3 +1,4 @@
+```bash
 # 克隆项目
 git clone https://github.com/Streafd/-.git
 
@@ -6,6 +7,7 @@ npm install
 
 # 启动服务
 npm run dev
+```
 
 # 文件介绍
 ```bash
