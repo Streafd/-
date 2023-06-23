@@ -8,6 +8,7 @@ npm install
 npm run dev
 
 # 文件介绍
+```bash
 build
      ----index.js webpack配置文件【很少修改这个文件】
 mock
@@ -38,6 +39,7 @@ permission.js:与导航守卫先关、
 settings：项目配置项文件
 .env.development
 .env.producation
+```
 
 # 后台路由
 ![image](https://github.com/Streafd/DeomImg/blob/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230623151630.png)
