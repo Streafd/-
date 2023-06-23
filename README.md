@@ -41,6 +41,8 @@ permission.js:与导航守卫先关、
 settings：项目配置项文件
 .env.development
 .env.producation
+
+基于vue2的管理模板进行搭建->https://github.com/PanJiaChen/vue-admin-template.git
 ```
 
 # 后台路由
